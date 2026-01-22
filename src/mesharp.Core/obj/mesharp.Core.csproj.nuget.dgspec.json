@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/dio/development/projects/mesharp/src/mesharp.Core/mesharp.Core.csproj": {}
+  },
+  "projects": {
+    "/home/dio/development/projects/mesharp/src/mesharp.Core/mesharp.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/dio/development/projects/mesharp/src/mesharp.Core/mesharp.Core.csproj",
+        "projectName": "mesharp.Core",
+        "projectPath": "/home/dio/development/projects/mesharp/src/mesharp.Core/mesharp.Core.csproj",
+        "packagesPath": "/home/dio/.nuget/packages/",
+        "outputPath": "/home/dio/development/projects/mesharp/src/mesharp.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/dio/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.122/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
